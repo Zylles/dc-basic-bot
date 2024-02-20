@@ -179,4 +179,4 @@ channel = bot.get_channel(1209168715732746320)
 async def dd(ctx):
     await channel.send('hello word')
 # -------------------------------------------------------TOKRN----------------------------------------
-bot.run("MTIwNzAxNzI4NTE4MTUxMzc4OQ.GBwVlS.HqQuXxuxWy6gX9uVgeHhB7q6AhrXOa2FmpOW0Y")
+bot.run(TOKEN)
